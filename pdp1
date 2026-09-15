@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Halaman-1" id="s3vNTNoZ9z35V9-f3utW">
+    <mxGraphModel dx="889" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GX_6K4s-Ofsm3zNzWuwn-8" edge="1" parent="1" source="GX_6K4s-Ofsm3zNzWuwn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GX_6K4s-Ofsm3zNzWuwn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GX_6K4s-Ofsm3zNzWuwn-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;strokeColor=light-dark(#000000,#FFFFFF);" value="START" vertex="1">
+          <mxGeometry height="70" width="120" x="360" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GX_6K4s-Ofsm3zNzWuwn-10" edge="1" parent="1" source="GX_6K4s-Ofsm3zNzWuwn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GX_6K4s-Ofsm3zNzWuwn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GX_6K4s-Ofsm3zNzWuwn-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="A" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="GX_6K4s-Ofsm3zNzWuwn-12" edge="1" parent="1" source="GX_6K4s-Ofsm3zNzWuwn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="GX_6K4s-Ofsm3zNzWuwn-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GX_6K4s-Ofsm3zNzWuwn-16" edge="1" parent="1" source="GX_6K4s-Ofsm3zNzWuwn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GX_6K4s-Ofsm3zNzWuwn-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GX_6K4s-Ofsm3zNzWuwn-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="JIKA&amp;nbsp; A BILANGAN GENAP" vertex="1">
+          <mxGeometry height="110" width="110" x="365" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="GX_6K4s-Ofsm3zNzWuwn-21" edge="1" parent="1" source="GX_6K4s-Ofsm3zNzWuwn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GX_6K4s-Ofsm3zNzWuwn-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GX_6K4s-Ofsm3zNzWuwn-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="A + 6 = C" vertex="1">
+          <mxGeometry height="80" width="120" x="160" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="GX_6K4s-Ofsm3zNzWuwn-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="IYA" vertex="1">
+          <mxGeometry height="30" width="60" x="293" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="GX_6K4s-Ofsm3zNzWuwn-24" edge="1" parent="1" source="GX_6K4s-Ofsm3zNzWuwn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GX_6K4s-Ofsm3zNzWuwn-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GX_6K4s-Ofsm3zNzWuwn-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="B = A + 7" vertex="1">
+          <mxGeometry height="80" width="120" x="560" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="GX_6K4s-Ofsm3zNzWuwn-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="TIDAK" vertex="1">
+          <mxGeometry height="25" width="50" x="493" y="312.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GX_6K4s-Ofsm3zNzWuwn-20" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="C GENAP" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="GX_6K4s-Ofsm3zNzWuwn-23" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="B GENAP" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="440" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
